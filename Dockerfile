@@ -20,3 +20,4 @@ RUN echo "4" > /tmp/debug_level &&\
     /etc/init.d/sysfixtime disable &&\
     /etc/init.d/sysntpd disable &&\
     /etc/init.d/telnet disable
+
